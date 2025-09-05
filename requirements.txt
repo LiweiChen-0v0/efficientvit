@@ -20,14 +20,13 @@ matplotlib
 huggingface-hub
 transformers
 onnx
-onnxsim
+onnxsim-prebuilt
 onnxruntime
 
 pycocotools
 lvis
 scikit-image
 
-git+https://github.com/alibaba/TinyNeuralNetwork.git
 git+https://github.com/facebookresearch/segment-anything.git
 
 # demo-specific packages
