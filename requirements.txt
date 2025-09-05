@@ -27,6 +27,7 @@ pycocotools
 lvis
 scikit-image
 
+git+https://github.com/LiweiChen-0v0/TinyNeuralNetwork.git
 git+https://github.com/facebookresearch/segment-anything.git
 
 # demo-specific packages
