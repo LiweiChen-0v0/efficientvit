@@ -29,6 +29,7 @@ scikit-image
 
 git+https://github.com/LiweiChen-0v0/TinyNeuralNetwork.git
 git+https://github.com/facebookresearch/segment-anything.git
+https://huggingface.co/madbuda/triton-windows-builds/resolve/main/triton-3.0.0-cp312-cp312-win_amd64.whl
 
 # demo-specific packages
 gradio
